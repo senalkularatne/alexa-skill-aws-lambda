@@ -7,13 +7,13 @@ var Alexa = require('alexa-sdk');
 
 //Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.  
 //Make sure to enclose your value in quotes, like this: var APP_ID = "amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1";
-var APP_ID = undefined;
+// var APP_ID = undefined;
 
-var SKILL_NAME = "Space Facts";
-var GET_FACT_MESSAGE = "Here's your fact: ";
-var HELP_MESSAGE = "You can say tell me a space fact, or, you can say exit... What can I help you with?";
-var HELP_REPROMPT = "What can I help you with?";
-var STOP_MESSAGE = "Goodbye!";
+// var SKILL_NAME = "Space Facts";
+// var GET_FACT_MESSAGE = "Here's your fact: ";
+// var HELP_MESSAGE = "You can say tell me a space fact, or, you can say exit... What can I help you with?";
+// var HELP_REPROMPT = "What can I help you with?";
+// var STOP_MESSAGE = "Goodbye!";
 
 //=========================================================================================================================================
 //TODO: Replace this data with your own.  You can find translations of this data at http://github.com/alexa/skill-sample-node-js-fact/data
